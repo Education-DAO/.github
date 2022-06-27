@@ -20,7 +20,8 @@
   <a href='https://www.figma.com/file/aV8gROoiNFZGlKVT7dvfhb/UI-system?node-id=227%3A1088'>
     <img src='https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white' />
   </a>
-  <a href='https://www.join.education-dao.org'>
+  <a href='https://join.education-dao.org/'>
     <img src='https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white' />
   </a>
 </div>
+
